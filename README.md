@@ -2,9 +2,9 @@
 
 This project applies **Partial Differential Equations (PDEs)** to two core problems in Extended Reality (XR): how touch propagates through tissue (haptic feedback) and where a user looks in a scene (visual saliency and gaze prediction). It shows that both reduce to PDEs with physically motivated boundary conditions.
 
-Institution: Zewail University, Faculty of Engineering  
-Department: Communications and Information  
-Date: May 2026  
+Course: MATH 302 - Partial Differential Equations and Complex Analysis    
+Institution: Zewail City of Science and Technology  
+Semester: Spring 2026  
 
 ---
 
@@ -95,8 +95,8 @@ g(p) = f_f(p) × f_c(p) × f_l(p)
 
 ## 👨‍💻 Authors
 
-- Mohamed Ali  
 - Mohammed Soliman  
+- Mohamed Ali  
 
 ---
 
